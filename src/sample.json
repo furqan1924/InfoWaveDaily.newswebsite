@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Holly Ellyatt, Amanda Macias",
+    "title": "Pouring scorn on 'annexations,' Ukraine reclaims more territory in the south and east; 'You've already lost,' Kyiv tells Moscow - CNBC",
+    "description": "Ukrainian President Volodymyr Zelenskyy has told Russia it cannot win the war as Kyiv counts more gains on the battlefield, both in the south and the east.",
+    "url": "https://www.cnbc.com/2022/10/06/live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107130183-1665053057644-gettyimages-1243763288-AFP_32KU3M4.jpeg?v=1665053606&w=1920&h=1080",
+    "publishedAt": "2022-10-06T16:20:00Z",
+    "content": "Ukraine's forces are making gains in the Luhansk region in the east of the country, according to a prominent Ukrainian official.\r\nIf verified, the advances will mark further progress for Ukraine as i… [+1482 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kiely Westhoff, Kristina Sgueglia, Ray Sanchez",
+    "title": "City of Rochester reaches $12 million settlement with Daniel Prude estate over his death in police custody - CNN",
+    "description": "The city of Rochester, New York, has reached a $12 million settlement with the estate of Daniel Prude, who died in 2020 in police custody.",
+    "url": "https://www.cnn.com/2022/10/06/us/rochester-settlement-daniel-prude/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200903000825-daniel-prude.jpg?q=x_2,y_222,h_931,w_1656,c_crop/w_800",
+    "publishedAt": "2022-10-06T16:18:00Z",
+    "content": "The city of Rochester, New York, has reached a $12 million settlement with the estate of Daniel Prude, who died in 2020 in police custody.\r\nPrudes son sued the city in federal court for alleged gross… [+3037 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Ryan Gaydos",
+    "title": "Antonio Brown backs Kanye West in midst of rapper's 'White Lives Matter' controversy - Fox News",
+    "description": "Antonio Brown waded into Kanye West's \"White Lives Matter\" controversy on Thursday, throwing his support toward the embattled rapper on social media.",
+    "url": "https://www.foxnews.com/sports/antonio-brown-backs-kanye-west-in-midst-of-rappers-white-lives-matter-controversy",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/Kanye-West-Antonio-Brown.jpg",
+    "publishedAt": "2022-10-06T15:56:36Z",
+    "content": "Antonio Brown appeared to side with Kanye West as the rapper and business mogul started a firestorm over his \"White Lives Matter\" apparel earlier in the week.\r\nBrown, the free agent NFL wide receiver… [+2717 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kocha Olarn, Hannah Ritchie, Heather Chen",
+    "title": "Thailand massacre: Children among at least 36 people killed at child care center - CNN",
+    "description": "Thailand recoiled in horror Thursday after at least 36 people were killed, at least 24 of them children, in a massacre at a child care center in northeastern Thailand that is believed to be the country's deadliest incident of its kind.",
+    "url": "https://www.cnn.com/2022/10/06/asia/thailand-mass-shooting-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221006105525-02-thailand-mass-shooting.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-10-06T15:56:00Z",
+    "content": "Thailand recoiled in horror Thursday after at least 36 people were killed, at least 24 of them children, in a massacre at a child care center in northeastern Thailand that is believed to be the count… [+4425 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Adrian Wojnarowski",
+    "title": "Warriors reviewing Draymond Green's altercation with Jordan Poole - ESPN",
+    "description": "The Warriors are reviewing an altercation in which All-Star Draymond Green punched teammate Jordan Poole in practice, sources told ESPN.",
+    "url": "https://www.espn.com/nba/story/_/id/34735898/warriors-reviewing-draymond-green-altercation-jordan-poole",
+    "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0611%2Fr1023762_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-10-06T15:53:19Z",
+    "content": "Golden State Warriors' All-Star Draymond Green threw a punch at teammate Jordan Poole at practice on Wednesday, sources told ESPN.\r\nThe two players had been verbally sparring prior to some pushing, w… [+500 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Jared Malsin",
+    "title": "U.N. Nuclear Agency Pushes for Safety Zone Around Ukraine's Largest Nuclear Plant - The Wall Street Journal",
+    "description": "IAEA head Rafael Grossi is heading to Kyiv, and Russian missiles struck the city of Zaporizhzhia, killing one.",
+    "url": "https://www.wsj.com/articles/russian-missiles-hit-civilian-targets-in-southeastern-ukraine-11665046368",
+    "urlToImage": "https://images.wsj.net/im-638198/social",
+    "publishedAt": "2022-10-06T15:19:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Alexander Saeedy, Laura Cooper and Ben Dummett",
+    "title": "Elon Musk's Revived Twitter Deal Could Saddle Banks With Big Losses - The Wall Street Journal",
+    "description": "Elon Musk’s takeover of Twitter would be paid for in part with $13 billion of debt seven banks including Morgan Stanley and Barclays agreed to provide. They could now face $500 million in losses if they tried to unload all the debt.",
+    "url": "https://www.wsj.com/articles/elon-musks-revived-twitter-deal-could-saddle-banks-with-big-losses-11665069334",
+    "urlToImage": "https://images.wsj.net/im-638360/social",
+    "publishedAt": "2022-10-06T15:15:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "2022 MLB playoff field is set with seeds locked: Wild Card Series schedule and format explained - CBS Sports",
+    "description": "We now know the road each team has through the playoffs to the World Series",
+    "url": "https://www.cbssports.com/mlb/news/2022-mlb-playoff-field-is-set-with-seeds-locked-wild-card-series-schedule-and-format-explained/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/05/e0e4b449-e35a-4ff6-97f8-fad34b852166/thumbnail/1200x675/8f27c50393fa232b3c2f89a3f902e760/braves-celebrate.jpg",
+    "publishedAt": "2022-10-06T15:04:00Z",
+    "content": "With the regular season concluded, all that's left to do is wait for Friday and the postseason.\r\nHere's how it'll look. \r\nAmerican League\r\nThe Wild Card Series will be three games all in the same bal… [+1846 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Caitlin McFall",
+    "title": "Biden 'looking at alternatives' after OPEC 'disappointment,' doesn't rule out easing Venezuela sanctions - Fox Business",
+    "description": "President Biden told reporters the decision by OPEC+ was a 'disappointment' and said the White House was looking for other 'alternatives.'",
+    "url": "https://www.foxbusiness.com/politics/biden-looking-alternatives-opec-disappointment-doesnt-rule-out-easing-venezuela-sanctions",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/Joe-Biden-OPEC-Cut-Decision-Venezuela.jpg?ve=1&tl=1",
+    "publishedAt": "2022-10-06T14:58:58Z",
+    "content": "President Biden on Thursday told reporters that the decision by the Organization of the Petroleum Exporting Countries (OPEC+) to slash oil production has left the administration looking for \"alternat… [+2418 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "David Pierce",
+    "title": "Google says it’s committed to the Pixel Watch — now it has to convince users - The Verge",
+    "description": "Google’s spotty history with Android Wear and Wear OS — and its penchant for killing products with no warning — makes it hard to believe the company is truly committed to wearables. But Google says it’s all in.",
+    "url": "https://www.theverge.com/23389978/google-pixel-watch-wearables-fitbit-future",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/PfojcDGplL-01pHH6g_uIrckPGg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24069436/226324_Google_event_hands_on_vpavic_0014.jpg",
+    "publishedAt": "2022-10-06T14:47:04Z",
+    "content": "Google has been right about wearables for nearly a decade. Now, the company swears its serious about them, too.\r\nByDavid Pierce\r\nOct 6, 2022, 2:47 PM UTC|\r\nWhy did Google take so long to build a smar… [+13770 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sofia Pitt",
+    "title": "Google unveils new flagship Pixel phones and its first smartwatch, which has Fitbit built in - CNBC",
+    "description": "Google announced the specs, price and release date for the Pixel 7 and Pixel 7 Pro phones and Pixel Watch on Thursday.",
+    "url": "https://www.cnbc.com/2022/10/06/google-pixel-7-pixel-7-pro-pixel-watch-price-release-date-specs.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107129327-1664918960375-GooglePixelWatch.png?v=1665067501&w=1920&h=1080",
+    "publishedAt": "2022-10-06T14:45:01Z",
+    "content": "Google on Thursday announced the Pixel 7 and Pixel 7 Pro phones and its first watch, the Pixel Watch. The devices were first teased during Google's developer event in May, but the company used an eve… [+3997 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KTLA Los Angeles"
+    },
+    "author": "Mederios Babb, Jocelina Joiner, Nexstar Media Wire",
+    "title": "‘I will kill you’: Former victim recalls being held by Merced Co. kidnapping suspect - KTLA Los Angeles",
+    "description": "California’s Merced County Sheriff’s Office shared information Wednesday on the criminal past of the suspect in the kidnapping and deaths of four missing family members.",
+    "url": "https://ktla.com/news/california/i-will-kill-you-former-victim-recalls-being-held-by-california-kidnapping-suspect/",
+    "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2022/10/Jesus-Manuel-Salgado-Merced-County-Sheriffs-Office-1.png?w=1280",
+    "publishedAt": "2022-10-06T14:12:40Z",
+    "content": "MERCED, Calif (KSEE/KGPE) — California’s Merced County Sheriff’s Office shared information Wednesday on the criminal past of the suspect in the kidnapping and deaths of four missing family members. \r… [+1873 chars]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": "Chris Giles, Colby Smith",
+    "title": "IMF chief issues gloomy assessment of global economy - Financial Times",
+    "description": "Kristalina Georgieva signals fund will issue fresh downgrades of its economic projections next week",
+    "url": "https://www.ft.com/content/c7ef582f-15e9-440c-be0d-8d021096904d",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb60f305-af49-42f6-8e1f-e58eae4ddc58.png?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2022-10-06T13:31:10Z",
+    "content": "The global economy will feel like it is in recession next year, the head of the IMF warned on Thursday, as the fund prepared to downgrade its economic forecasts again. \r\nSpeaking ahead of the annual … [+5167 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "Finally, some good California gas price news (really!) - POLITICO",
+    "description": null,
+    "url": "https://www.politico.com/newsletters/california-playbook/2022/10/06/finally-some-good-news-on-california-gas-prices-really-00060687",
+    "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+    "publishedAt": "2022-10-06T13:15:00Z",
+    "content": "Presented by UPS\r\nTHE BUZZ OIL OPTICS: California is on track to see a drop in gasoline prices in the coming weeks, just as the worlds leading oil producers announced plans yesterday to cut productio… [+12966 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Stephanie Giang-Paunon",
+    "title": "After Will Smith’s Oscar slap, Jada Pinkett Smith reveals 'complicated marriage' in 'no holds barred' memoir - Yahoo News",
+    "description": "\"Girls Trip\" actress Jada Pinkett Smith tells all in her new untitled memoir, which covers \"a rollercoaster ride from the depths of suicidal depression to...",
+    "url": "https://news.yahoo.com/smith-oscar-slap-jada-pinkett-131427925.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PxokUgqZxLmpSRe3gZC.xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_news_text_979/56efcf2ee4861a9bb7b8583dc5d5175b",
+    "publishedAt": "2022-10-06T13:14:27Z",
+    "content": "Jada Pinkett Smith plans to reveal all in her new memoir.\r\nThe actress and wife of Will Smith announced she will publish her book in 2023, according to People.\r\nAlthough the memoir is still untitled,… [+2758 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Frank Schwab",
+    "title": "Thursday Night Football: Russell Wilson and Broncos try to dig out of slump vs. Colts - Yahoo Sports",
+    "description": "The Colts and Broncos are off to rough starts this season.",
+    "url": "https://sports.yahoo.com/thursday-night-football-russell-wilson-and-broncos-try-to-dig-out-of-slump-vs-colts-120054295.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Kp9PBGQAgvFL54UWzEXUNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/07e578d0-44d7-11ed-bfbc-bc9266c49db4",
+    "publishedAt": "2022-10-06T12:00:54Z",
+    "content": "The Denver Broncos had just 12 first downs in Sunday's loss to the Las Vegas Raiders, yet it seemed like progress.\r\nThe excitement about the Broncos that spanned the offseason is gone. It's hard to g… [+3803 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Martin Pengelly",
+    "title": "Florida mayor not offended by Biden’s ‘salty language’ on live microphone - The Guardian US",
+    "description": "Ray Murphy, mayor of Fort Myers Beach, says: ‘It was not directed at anybody. It was just two guys talking. It didn’t faze me one bit’",
+    "url": "https://www.theguardian.com/us-news/2022/oct/06/florida-mayor-not-offended-joe-biden-salty-language-live-microphone",
+    "urlToImage": "https://i.guim.co.uk/img/media/42c2801240b3a56c309ee8e8c0926867ec7fe45d/0_66_1527_916/master/1527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f559fe96eb4fc54051db5c3d8e411ac",
+    "publishedAt": "2022-10-06T11:55:00Z",
+    "content": "The Florida mayor to whom Joe Biden uttered a profanity captured by a live microphone, sparking a minor viral fuss, said the presidential swearword did not bother him in the slightest.\r\nThe two men m… [+1933 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Mia Jankowicz",
+    "title": "Ukraine ends artillery shortage by taking from fleeing Russians: WSJ - Business Insider",
+    "description": "Ukraine now has a good supply of artillery shells it had almost run out of — thanks to fleeing Russian troops, The Wall Street Journal reported.",
+    "url": "https://www.businessinsider.com/ukraine-ends-artillery-shortage-by-taking-from-fleeing-russians-wsj-2022-10",
+    "urlToImage": "https://i.insider.com/633eb33adf105f00184f8ad0?width=1200&format=jpeg",
+    "publishedAt": "2022-10-06T11:33:27Z",
+    "content": "Ammunition left behind by fleeing Russian troops is filling Ukraine's depleted reserves and powering its counter-offensive, according to The Wall Street Journal. \r\nRussia's hurried retreat from Khark… [+2594 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sam Meredith",
+    "title": "Sweden says investigation into Russian pipeline leaks strengthens suspicion of ‘gross sabotage’ - CNBC",
+    "description": "Sweden’s national security service on Thursday said a crime scene investigation into the Nord Stream gas leaks “strengthened the suspicions of gross sabotage.”",
+    "url": "https://www.cnbc.com/2022/10/06/nord-stream-gas-leaks-suspicion-of-gross-sabotage-sweden-says.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107127175-1664533870009-gettyimages-1243595779-AA_29092022_881826.jpeg?v=1665056113&w=1920&h=1080",
+    "publishedAt": "2022-10-06T11:14:43Z",
+    "content": "Sweden's national security service on Thursday said a crime scene investigation into the gas leaks from two underwater pipelines connecting Russia to Germany \"strengthened the suspicions of gross sab… [+2007 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ROD McGUIRK Associcated Press",
+    "title": "Ukraine leader says Putin wouldn't survive nuclear attack - ABC News",
+    "description": "Ukraine President Volodymyr Zelenskyy says it's “hard to say” whether the risk of nuclear war has increased with his military's territorial gains",
+    "url": "https://abcnews.go.com/International/wireStory/ukraine-leader-putin-survive-nuclear-attack-91097006",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2022-10-06T10:52:34Z",
+    "content": "CANBERRA, Australia -- Ukraine President Volodymyr Zelenskyy said on Thursday it was hard to say whether the risk of nuclear war had increased with his military's territorial gains, but he remains co… [+1073 chars]"
+    }
+    ]
+    }
