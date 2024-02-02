@@ -1,8 +1,6 @@
 import React from 'react'
 import Newsitems from './Newsitems'
 import { useEffect, useState } from 'react'
-import InfiniteScroll from "react-infinite-scroll-component";
-import Spinner from './Spinner';
 import { Pagination } from 'antd';
 
 export default function News(props) {
@@ -10,7 +8,6 @@ export default function News(props) {
   const [articles, setArticles] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [recordsPerPage] = useState(5);
-  const [totalresult, setTotalresult] = useState(0);
   let str = props.category;
   const capitalizeFirstLowercaseRest = str => {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
@@ -34,7 +31,6 @@ export default function News(props) {
     const parsdata = await data.json();
     props.setProgress(80);
     setArticles(parsdata.articles)
-    setTotalresult(parsdata?.totalResults)
     props.setProgress(100);
   }
 
@@ -48,10 +44,7 @@ export default function News(props) {
     <>
 
       <h1 className='text-center my-5' style={{}}>InfoWaveDaily - {capitalizeFirstLowercaseRest(str)}</h1>
-      <InfiniteScroll
-        dataLength={articles.length}
-        hasMore={articles.length !== totalresult}
-        >
+     
         <div className='container my-3'>
           <div className='row'>
             {
@@ -64,7 +57,7 @@ export default function News(props) {
           </div>
           <Pagination className='mt-5' onChange={(nPages) => { setCurrentPage(nPages) }} defaultCurrent={currentPage} total={`${nPages}` + 0} />
         </div>
-      </InfiniteScroll>
+   
 
     </>
   )
